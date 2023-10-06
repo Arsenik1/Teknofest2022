@@ -1,9 +1,6 @@
-`
-Here, you can access all the development codes I have used in Teknofest 2022 International UAV Rotary Wing Competition. It allowed my team to win the competition as 2nd place. "artikblue_otonom_aqua.py" file was the main code, it had been coded in the time when I was a freshman in GTU.
-`
 # Teknofest2022 International UAV Rotary Wing Competition Code
 
-Welcome to the GitHub repository where you can find the development codes used in the Teknofest 2022 International UAV Rotary Wing Competition. Our team secured the 2nd place, and this repository hosts the code that contributed to this achievement.
+Welcome to the GitHub repository where you can find the development codes used in the Teknofest 2022 International UAV Rotary Wing Competition. Our team secured the 2nd place, and this repository hosts the code that contributed to this achievement. Here, you can access all the development codes I have used in Teknofest 2022 International UAV Rotary Wing Competition. It allowed my team to win the competition as 2nd place. "artikblue_otonom_aqua.py" file was the main code, it had been coded in the time when I was a freshman in GTU.
 
 ## Main Code File
 
